@@ -1,4 +1,4 @@
-#### How do you get an application that is connected to a database that works locally, onto a server and to work remotely?
+## How do you get an application that is connected to a database that works locally, onto a server and to work remotely?
 
 Long story short, I can get this application to work locally.  It is connected to a database locally as well.  When I move it to a server, database and all, and try to access it online, it all falls apart.  I've hit and overcome few obstacles and now I'm up against one I've not be able to get through for a good two weeks now.
 
